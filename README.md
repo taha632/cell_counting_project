@@ -91,7 +91,7 @@ input_image, ground_truth_image = dataset[0]
 ## Authors
 ```
   author    = {BOUKHEMS Anass and
-               Taha Mohammed Elqandili},
+               Taha Elqandili},
   title     = {Cellular counting using convolutional network},
   year      = {2021},
   emails    =  {boukhemsanass0@gmail.com,
